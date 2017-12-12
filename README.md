@@ -10,7 +10,9 @@ git clone https://github.com/abuvanth/docker-image-tesseract-ocr-tamil.git
 cd docker-image-tesseract-ocr-tamil/scripts
 
 sudo sh run.sh
+
 sudo sh start.sh 
+
 sudo sh test.sh
 
 see ocr-files/output folder for result. 
